@@ -1,1 +1,1 @@
-# com103-midterm-exam
+This code is designed to track the results of intramurall sports games for a specific class section. it lets the user enter game details, calculates points for wins, and then shows the total points along with a performance ranking. the program helps organize and display how well the class did in different sports during the intramurals.
